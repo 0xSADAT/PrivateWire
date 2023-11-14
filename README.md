@@ -8,7 +8,7 @@
 
 ---
 
-![Preview](https://raw.githubusercontent.com/RTippin/messenger/1.x/docs/images/image1.png?raw=true)
+![Preview](https://github.com/0xSADAT/PrivateWire)
 
 ---
 
@@ -65,7 +65,7 @@
 ### Composer
 
 ```bash
-composer require rtippin/messenger
+composer require 0xSADAT/PrivateWire
 ```
 
 ### To complete the setup, please refer to the installation documentation listed below:
